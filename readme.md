@@ -9,7 +9,6 @@
 
 *An overview of the proposed MFA model*
 
-
 ### How to test the model?
 
 1. Run the [`run.sh`] script (./run.sh)
@@ -40,3 +39,11 @@
     num_parameters = num_parameters / 10 ** 6
     print("{:>16s} : {:<.4f} [M]".format("#Params", num_parameters))
 ```
+
+
+### Results of NTIRE 2023 Efficient SR Challenge
+Our team (NJUST_E) placed 2nd in the Parameters and FLOPs sub-track of the [NTIRE 2023 ESR Challenge](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
+<p align="center">
+  <img width="800" src="./figs/results.png">
+</p>
+
