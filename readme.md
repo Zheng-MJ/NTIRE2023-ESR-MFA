@@ -44,6 +44,6 @@
 ### Results of NTIRE 2023 Efficient SR Challenge
 Our team (NJUST_E) placed 2nd in the Parameters and FLOPs sub-track of the [NTIRE 2023 ESR Challenge](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Li_NTIRE_2023_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2023_paper.pdf).
 <p align="center">
-  <img width="800" src="./figs/results.png">
+  <img width="800" src="./figs/ESR2023_results.png">
 </p>
 
