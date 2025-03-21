@@ -56,7 +56,7 @@ Our team (NJUST_E) placed 2nd in the Parameters and FLOPs sub-track of the [NTIR
 
 ## ✨ Experimental Results
  ### Visual Results
-[Google Drive]( ) | [Huggingface](https://huggingface.co/datasets/Zheng-MJ/MFA_Visual_Result/tree/main)
+[Google Drive](https://drive.google.com/file/d/1_M_EA3iGhPVRJKA4dquwgSUmWDrShiCp/view?usp=sharing ) | [Huggingface](https://huggingface.co/datasets/Zheng-MJ/MFA_Visual_Result/tree/main)
 
 ### Results on X2 SR
 <p align="center">
