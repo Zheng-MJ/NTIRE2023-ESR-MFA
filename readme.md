@@ -50,8 +50,8 @@ Our team (NJUST_E) placed 2nd in the Parameters and FLOPs sub-track of the [NTIR
 ----------------------------------------------------------
 ## 📜 News
 - **[2025/03/32]**  We trained MFA with a channel number of 60
-- The model architecture is in [`./models/mfa_arch.py`](./models/mfasr_arch.py).
-- The pretrained models is in [`./checkpoints`](/checkpoints).
+- The model architecture is in [`./models/mfa_arch.py`](./models/mfa_arch.py).
+- The pretrained models is in [`./checkpoints`](./checkpoints).
 
 
 ## ✨ Experimental Results
