@@ -47,3 +47,36 @@ Our team (NJUST_E) placed 2nd in the Parameters and FLOPs sub-track of the [NTIR
   <img width="800" src="./figs/ESR2023_results.png">
 </p>
 
+----------------------------------------------------------
+## 📜 News
+- **[2025/03/32]**  We trained MFA with a channel number of 60
+- The model architecture is in [`./models/mfa_arch.py`](models\mfasr_arch.py).
+- The pretrained models is in [`./checkpoints`](/checkpoints).
+
+
+## ✨ Experimental Results
+ ### Visual Results
+[Google Drive]( ) | [Huggingface](https://huggingface.co/datasets/Zheng-MJ/MFA_Visual_Result/tree/main)
+
+### Results on X2 SR
+<p align="center">
+  <img width="800" src="./figs/MFA_X2.png">
+</p>
+
+### Results on X3 SR
+<p align="center">
+  <img width="800" src="./figs/MFA_X3.png">
+</p>
+
+### Results on X4 SR
+<p align="center">
+  <img width="800" src="./figs/MFA_X4.png">
+</p>
+
+### Visual comparisons for x4 SR
+<p align="center">
+  <img width="800" src="./figs/vis_res_x4.png">
+</p>
+
+### Contact
+If you have any questions, please feel free to reach me out at mingjunzheng@njust.edu.cn
